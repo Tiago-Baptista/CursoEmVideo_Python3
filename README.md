@@ -12,6 +12,6 @@
     - Aula 3 - Instalando o Python3 e o IDLE
     - Aula 4 - Primeiros comando em Python3
     - Aula 5 - Instalando o PyCharm e QPython3
-         . Exercicio 1 - [Olá mundo!](https://github.com/Tiago-Baptista/CursoEmVideo_Python3/blob/main/cursoemvideo/python3_mundo1/aula_1_a_5/ex001.py)
+         . Exercicio 1 - [Olá mundo!](https://github.com/Tiago-Baptista)
          . Exercicio 2 - Respondendo ao usuario
 
