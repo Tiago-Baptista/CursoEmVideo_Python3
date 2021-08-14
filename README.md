@@ -47,3 +47,17 @@
          . Exercicio 25 - Procurando uma string dentro de outra
          . Exercicio 26 - Primeira e ultima ocorrencia de uma string
          . Exercicio 27 - Primeiro e ultimo nome de uma pessoa
+         
+## Condições em Python (if.. else)
+    - Aula 10 - Condições (parte 1)
+         . Exercicio 28 - Jogo da divinhação v1.0
+         . Exercicio 29 - Radar eletronico
+         . Exercicio 30 - Par ou impar?
+         . Exercicio 31 - Custo da viagem
+         . Exercicio 32 - Ano bissexto
+         . Exercicio 33 - Maior e menor valores
+         . Exercicio 34 - Aumentos multiplos
+         . Exercicio 35 - Analizando triangulo v1.0
+         
+## Adicionando cores ao Python
+    - Aula 11 - Cores no terminal
