@@ -5,7 +5,7 @@
 # Mundo 1 (40 horas)
 
  ## Intrudução ao mundo da programação
-    - **Aula 1** - Seja um programador
+    - Aula 1 - Seja um programador
  
  ## Primeiros passos com Python
     - Aula 2 - Para que serve o Python?
@@ -31,4 +31,19 @@
          . Exercicio 13 - Reajuste salarial
          . Exercicio 14 - Conversor de temperaturas
          . Exercicio 15 - Aluguer de carros
-
+         
+ ## Usando modulos do Python
+    - Aula 8 - Utilizando modulos
+         . Exercicio 16 - Quebrando um numero
+         . Exercicio 17 - Catetos e hipotenusa
+         . Exercicio 18 - Seno, cosseno e tangente
+         . Exercicio 19 - Sorteando um item na lista
+         . Exercicio 20 - Sorteando uma ordem na lista
+         . Exercicio 21 - Tocar um MP3
+    - Aula 9 - Manipulando texto
+         . Exercicio 22 - Analizador de textos
+         . Exercicio 23 - Separar digitos de um numero
+         . Exercicio 24 - Verificando as primeiras letras de um texto
+         . Exercicio 25 - Procurando uma string dentro de outra
+         . Exercicio 26 - Primeira e ultima ocorrencia de uma string
+         . Exercicio 27 - Primeiro e ultimo nome de uma pessoa
