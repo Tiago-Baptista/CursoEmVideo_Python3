@@ -5,7 +5,7 @@
 # Mundo 1 (40 horas)
 
  ## Intrudução ao mundo da programação
-    - Aula 1 - Seja um programador
+    - *Aula 1* - Seja um programador
  
  ## Primeiros passos com Python
     - Aula 2 - Para que serve o Python?
