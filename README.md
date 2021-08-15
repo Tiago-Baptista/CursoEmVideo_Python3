@@ -92,3 +92,22 @@
          . Exercicio 54 - Grupo da maioridade
          . Exercicio 55 - Maior e menor da sequencia
          . Exercicio 56 - Analisador completo
+         
+ ## Repetições em Python (while)
+     - Aula 14 - Estrutura de repetição while
+         . Exercicio 57 - Validação de dados
+         . Exercicio 58 - Jogo da adivinhação v2.0
+         . Exercicio 59 - Criando um menu de opções
+         . Exercicio 60 - Calculo do fatorial
+         . Exercicio 61 - Progressão aritmetica v2.0
+         . Exercicio 62 - Super progressão aritmetica v3.0
+         . Exercicio 63 - Sequencia de Fibonacci v1.0
+         . Exercicio 64 - Tratando varios valores v1.0
+         . Exercicio 65 - Maior e menor valores
+      - Aula 15 - Interrompendo repetição while
+         . Exercicio 66 - Varios numeros com flag
+         . Exercicio 67 - Tabuada v3.0
+         . Exercicio 68 - Jogo: Par ou impar v2.0
+         . Exercicio 69 - Analise de dados do grupo
+         . Exercicio 70 - Estatisticas em produtos
+         . Exercicio 71 - Simulador de multibanco
