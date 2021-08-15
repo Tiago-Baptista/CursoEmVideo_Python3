@@ -52,7 +52,7 @@
     - Aula 10 - Condições (parte 1)
          . Exercicio 28 - Jogo da divinhação v1.0
          . Exercicio 29 - Radar eletronico
-         . Exercicio 30 - Par ou impar?
+         . Exercicio 30 - Jogo: Par ou impar?
          . Exercicio 31 - Custo da viagem
          . Exercicio 32 - Ano bissexto
          . Exercicio 33 - Maior e menor valores
@@ -61,3 +61,20 @@
          
 ## Adicionando cores ao Python
     - Aula 11 - Cores no terminal
+    
+    
+    
+# Mundo 2 (40 horas)
+
+ ## Condições em Python (if..elif)
+     - Aula 12 - Condições aninhadas
+         . Exercicio 36 - Aprovação de emprestimo
+         . Exercicio 37 - Conversor de bases numericas
+         . Exercicio 38 - Comparando numeros
+         . Exercicio 39 - Alistamento militar
+         . Exercicio 40 - Aquele classico da media
+         . Exercicio 41 - Classificando atletas
+         . Exercicio 42 - Analizando triangulo v2.0
+         . Exercicio 43 - Indice de massa corporal
+         . Exercicio 44 - Gerenciador de pagamentos
+         . Exercicio 45 - Jogo: Pedra, Papel ou Tesoura
