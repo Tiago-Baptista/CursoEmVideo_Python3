@@ -66,7 +66,7 @@
     
 # Mundo 2 (40 horas)
 
- ## Condições em Python (if..elif)
+ ## Condições em Python (if.. elif)
      - Aula 12 - Condições aninhadas
          . Exercicio 36 - Aprovação de emprestimo
          . Exercicio 37 - Conversor de bases numericas
@@ -78,3 +78,17 @@
          . Exercicio 43 - Indice de massa corporal
          . Exercicio 44 - Gerenciador de pagamentos
          . Exercicio 45 - Jogo: Pedra, Papel ou Tesoura
+         
+ ## Repetições em Python (for)
+     - Aula 13 - Estrutura de repetição for
+         . Exercicio 46 - Contagem regressiva
+         . Exercicio 47 - Contagem de pares
+         . Exercicio 48 - Soma de impares multiplos de tres
+         . Exercicio 49 - Tabuada v2.0
+         . Exercicio 50 - Soma dos pares
+         . Exercicio 51 - Progressão aritmerica
+         . Exercicio 52 - Numeros primos
+         . Exercicio 53 - Detector de palindromo
+         . Exercicio 54 - Grupo da maioridade
+         . Exercicio 55 - Maior e menor da sequencia
+         . Exercicio 56 - Analisador completo
