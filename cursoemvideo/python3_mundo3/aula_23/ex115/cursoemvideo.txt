@@ -1,0 +1,5 @@
+Tiago;40
+Rute;43
+Carolina;4
+Diogo;2
+Fernanda;70
