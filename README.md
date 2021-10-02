@@ -149,3 +149,27 @@
          . Exercicio 93 - Cadastro de jogador de futebol
          . Exercicio 94 - Unindo dicionarios e listas
          . Exercicio 95 - Aprimorando os dicionarios
+         
+ ## Funções em Python
+     - Aula 20 - Funções (Parte 1)
+         . Exercicio 96 - Função que calcula a area
+         . Exercicio 97 - Um print especial
+         . Exercicio 98 - Função de contador
+         . Exercicio 99 - Função que descobre o maior
+         . Exercicio 100 - Funções para sortear e somar
+     - Aula 21 - Funções (Parte 2)
+         . Exercicio 101 - Funções para votação
+         . Exercicio 102 - Função para factorial
+         . Exercicio 103 - Ficha do jogador
+         . Exercicio 104 - Validando entrada de dados em python
+         . Exercicio 105 - Analisando e gerando dicionarios
+         . Exercicio 106 - Interactive helping system in python
+         
+ ## Modularização em Python
+     - Aula 22 - Modulos e Pacotes
+         . Exercicio 107 - Exercitando modulos
+         . Exercicio 108 - Formatando moedas
+         . Exercicio 109 - Formatando moedas 2
+         . Exercicio 110 - Reduzindo ainda mais o teu programa
+         . Exercicio 111 - Transformando modulos em pacotes
+         . Exercicio 112 - Entrada de dados monetarios
