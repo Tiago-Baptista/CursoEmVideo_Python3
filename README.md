@@ -173,3 +173,11 @@
          . Exercicio 110 - Reduzindo ainda mais o teu programa
          . Exercicio 111 - Transformando modulos em pacotes
          . Exercicio 112 - Entrada de dados monetarios
+         
+ ## Tratamento de erros em Python
+     - Aula 23 - Tratamento de erros e excepções
+         . Exercicio 113 - Funções aprofundadas
+         . Exercicio 114 - Site está acessivel?
+         . Exercicio 115a - Criando um menu
+         . Exercicio 115b - Arquivos com python
+         . Exercicio 115c - Finalizando o projecto
