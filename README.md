@@ -111,3 +111,41 @@
          . Exercicio 69 - Analise de dados do grupo
          . Exercicio 70 - Estatisticas em produtos
          . Exercicio 71 - Simulador de multibanco
+         
+         
+         
+# Mundo 3 (40 horas)
+
+ ## Tuplas em Python
+     - Aula 16 - Tuplas
+         . Exercicio 72 - Numero por extenso
+         . Exercicio 73 - Tuplas com equipas de futebol
+         . Exercicio 74 - Maior e menor valor em tuplas
+         . Exercicio 75 - Analise de dados numa tupla
+         . Exercicio 76 - Lista de preços com tupla
+         . Exercicio 77 - Contando vogais em tupla
+         
+ ## Listas em Python
+     - Aula 17 - Listas (Parte 1)
+         . Exercicio 78 - Maior e menor valor em listas
+         . Exercicio 79 - Valores unicos numa lista
+         . Exercicio 80 - Lista ordenada sem repetições
+         . Exercicio 81 - Extraindo dados de uma lista
+         . Exercicio 82 - Dividindo valores em varias listas
+         . Exercicio 83 - Validando expressões matematicas
+     - Aula 18 - Listas (Parte 2)
+         . Exercicio 84 - Lista composta e analise de dados
+         . Exercicio 85 - Listas com pares e impares
+         . Exercicio 86 - Matriz em python
+         . Exercicio 87 - Mais sobre matriz em python
+         . Exercicio 88 - Palpites para lotarias
+         . Exercicio 89 - Boletim com listas compostas
+         
+ ## Dicionarios em Python
+     - Aula 19 - Dicionarios
+         . Exercicio 90 - Dicionario em python
+         . Exercicio 91 - Jogo de dados
+         . Exercicio 92 - Cadastro do trabalhador
+         . Exercicio 93 - Cadastro de jogador de futebol
+         . Exercicio 94 - Unindo dicionarios e listas
+         . Exercicio 95 - Aprimorando os dicionarios
